@@ -2,21 +2,22 @@
 
 ---
 
-<div>
+<div align="center">
   <a href='https://github.com/leandrolima132'>  
     <img height='180em' width='450em' src='https://github-readme-stats.vercel.app/api?username=leandrolima132&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=00FFFF'/>
     <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolima132&layout=compact&langs_count=5&theme=dracula&title_color=00FFFF'/>
   </a>
 </div>
 
----
+<br/>
 
-### Tecnologias que eu uso:
-<div style='display: inline-block'> 
-  <img align='center' alt='Icon-JS' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'/>
-  <img align='center' alt='Icon-React' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'/>
-  <img align='center' alt='Icon-Flutter' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg'/>
-</div>
+  <div align="center" >
+    <a href="https://skillicons.dev"   >
+      <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+    </a>
+  <br />
+
+  </div>
 
 ---
 
